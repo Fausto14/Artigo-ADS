@@ -25,13 +25,13 @@
 
 ## Implementações
 As implementação foram separadas nas sequintes pastas:
-- ** Util ** contém uma classe para auxiliar na divisão e manipulação do dataset.
-- ** dataset ** contém um `Jupyter Notebook` `.ipynb` que apresenta os tratamentos de preparação dos dados.
-- ** knn ** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo KNN.
-- ** mlm ** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo MLM.
-- ** mlp ** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo MLP.
-- ** regressao_logistica ** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo Regressão Logística.
-- ** svm ** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo SVM.
+- **Util** contém uma classe para auxiliar na divisão e manipulação do dataset.
+- **dataset** contém um `Jupyter Notebook` `.ipynb` que apresenta os tratamentos de preparação dos dados.
+- **knn** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo KNN.
+- **mlm** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo MLM.
+- **mlp** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo MLP.
+- **regressao_logistica** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo Regressão Logística.
+- **svm** contém um `Jupyter Notebook` `.ipynb` que apresenta a implementação do modelo SVM.
 
 Na pasta de cada modelo contém um arquivo no formato CSV que apresenta os resultados das métricas utilizadas na análise de desempenho dos modelos nas 50 rodadas/iterações.
 
