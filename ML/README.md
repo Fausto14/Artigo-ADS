@@ -36,7 +36,7 @@ As implementação foram separadas nas sequintes pastas:
 Na pasta de cada modelo contém um arquivo no formato CSV que apresenta os resultados das métricas utilizadas na análise de desempenho dos modelos nas 50 rodadas/iterações.
 
 ## Resultados
-- Na pasta **resultados** contém um `Jupyter Notebook` `.ipynb` que uni os resultados do modelos e gera as tabelas, box plots e matrizes de confusão dos experimetos.
+- Na pasta **resultados** contém um `Jupyter Notebook` `.ipynb` que uni os resultados do modelos e gera as tabelas, box plots e matrizes de confusão dos experimentos.
 
 			
 ## Instalação
