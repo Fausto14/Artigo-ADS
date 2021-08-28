@@ -45,4 +45,4 @@ Na pasta de cada modelo contém um arquivo no formato CSV que apresenta os resul
 
 ## Autores
 - [Fausto Sampaio](https://github.com/Fausto14) 
-- [Lailson Azevedo do Rego](#)
+- [Lailson Azevedo do Rego](https://github.com/lailson93)
